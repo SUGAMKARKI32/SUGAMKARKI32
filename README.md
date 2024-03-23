@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm sugam karki</h1>
 <h3 align="center">k hereko ?</h3>
+<img align="right alt="coding" width="400" src="https://i.gifer.com/81RA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugamkarki32&label=Profile%20views&color=0e75b6&style=flat" alt="sugamkarki32" /> </p>
 
