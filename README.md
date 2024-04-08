@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm sugam karki</h1>
 <h3 align="center">A forward learner ?</h3>
 <img align="right" alt="Coding" width="400"src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
